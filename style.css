@@ -1,0 +1,42 @@
+body{
+    background-color: skyblue ;
+    font-family:Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+img{
+    text-align: center;
+    border-radius: 100%;
+    display: block;
+    justify-items: center;
+    width: 350px;
+}
+nav{
+    background-color: rgb(147, 128, 209);
+    color: white;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+    background-color: black;
+}
+p{
+    margin: 30px;
+}
+h2{
+    text-align: center;
+    color: aquamarine;
+    background-color: black;
+}
+ol{
+    margin: 30px;
+}
+.food{
+    color: red;
+    background-color: yellow;
+    font-family: monospace ;
+}
